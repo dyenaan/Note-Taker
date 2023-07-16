@@ -1,0 +1,14 @@
+.noteCard {
+
+    background-color: #00ff264b;
+}
+
+.cardBody{
+
+    overflow: hidden; 
+    mask-image: linear-gradient(180deg, #000 60%, transparent);
+}
+.cardText {
+
+    white-space: pre-line;
+}
